@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "live_image": "https://example.com/images/productA.jpg",
+      "description": "This is the description for Product A."
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "live_image": "https://example.com/images/productB.jpg",
+      "description": "Product B is a top-rated item."
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "live_image": "https://example.com/images/productC.jpg",
+      "description": "Product C is available in multiple colors."
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "live_image": "https://example.com/images/productD.jpg",
+      "description": "Don't miss out on Product D's special offer!"
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "live_image": "https://example.com/images/productE.jpg",
+      "description": "Product E is perfect for outdoor adventures."
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "live_image": "https://example.com/images/productF.jpg",
+      "description": "Product F is a must-have for tech enthusiasts."
+    },
+    {
+      "id": 7,
+      "name": "Product G",
+      "live_image": "https://example.com/images/productG.jpg",
+      "description": "Product G comes with a lifetime warranty."
+    },
+    {
+      "id": 8,
+      "name": "Product H",
+      "live_image": "https://example.com/images/productH.jpg",
+      "description": "Experience the luxury of Product H."
+    },
+    {
+      "id": 9,
+      "name": "Product I",
+      "live_image": "https://example.com/images/productI.jpg",
+      "description": "Product I is perfect for any occasion."
+    },
+    {
+      "id": 10,
+      "name": "Product J",
+      "live_image": "https://example.com/images/productJ.jpg",
+      "description": "Upgrade your lifestyle with Product J."
+    }
+  ]
+  

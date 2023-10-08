@@ -13,9 +13,5 @@ app.get("/service", (req, res) => {
   res.send(appData);
 });
 
-app.get("/service123", (req, res) => {
-    res.send(appData);
-  });
-
 //to run our api need to add listen mehtod
 app.listen(port, () => {});
